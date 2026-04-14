@@ -1,0 +1,40 @@
+#!/bin/bash
+
+echo "Simple Calculator"
+
+echo "Enter First number:"
+read  a
+
+echo "Enter sec number:"
+read  b
+
+echo "Choose Operation:"
+echo "1.Addition"
+echo "2.Subtract"
+echo "3.Multiplication"
+echo "4.Division"
+
+read choice
+
+if [ $choice -eq 1 ]
+then
+   result=$((a+b))
+   echo "Result: $result"
+
+elif [ $choice -eq 2 ]
+then
+   result=$((a-b))
+   echo "Result: $result"
+
+elif [ $choice -eq 3 ]
+then
+   result=$((a*b))
+   echo "Result: $result"
+
+elif [ $choice -eq 4 ]
+then
+   result=$((a/b))
+   echo "Result: $result"
+fi
+
+

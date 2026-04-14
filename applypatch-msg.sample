@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 bef69681d25d148f08adb907853bf8618df4e581 Aastha <aasthakumari0342gmail.com> 1776088775 +0530	commit (initial): added file1.txt
+bef69681d25d148f08adb907853bf8618df4e581 6a504eaea49b631b16b89472ac26d6c4a881575a Aastha <aasthakumari0342gmail.com> 1776088897 +0530	commit: update file1.txt with more content
+6a504eaea49b631b16b89472ac26d6c4a881575a 6a504eaea49b631b16b89472ac26d6c4a881575a Aastha <aasthakumari0342gmail.com> 1776088940 +0530	checkout: moving from master to feature-branch
+6a504eaea49b631b16b89472ac26d6c4a881575a d1a5a75e78634428142079ef2855d440d58b64a7 Aastha <aasthakumari0342gmail.com> 1776089201 +0530	commit: Changes in feature branch
+d1a5a75e78634428142079ef2855d440d58b64a7 6a504eaea49b631b16b89472ac26d6c4a881575a Aastha <aasthakumari0342gmail.com> 1776089267 +0530	checkout: moving from feature-branch to master
+6a504eaea49b631b16b89472ac26d6c4a881575a 2e2efdfe8d61d752d861c893d0f78910fb6e98e5 Aastha <aasthakumari0342gmail.com> 1776089507 +0530	commit: updated file1
+2e2efdfe8d61d752d861c893d0f78910fb6e98e5 9f55374c296f7245bea0d2b122e62b22ab4ceff1 Aastha <aasthakumari0342gmail.com> 1776089836 +0530	commit (merge): Resolved merge conflict
